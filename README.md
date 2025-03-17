@@ -31,7 +31,7 @@ Ensure you have:
 
 ### **2️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/MariaChmite/MusicPlatform.git  
+git clone https://github.com/SalimSoftware/MusicPlatformJava.git  
 cd MusicPlatform
 ```
 
