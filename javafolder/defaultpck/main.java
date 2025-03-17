@@ -1,3 +1,21 @@
+/*
+=========================================================
+Java Music Platform
+=========================================================
+This code is developed by:
+- Salim El Ghersse (@SalimElGhersse)
+- Maria Chmite (@MariaChmite)
+- Nouamane Zanboui 
+- Jad Falaq 
+
+Description:
+This project is a Java-based music platform that enables users to explore 
+and manage music files. It features an interactive GUI built with Swing, 
+allowing users to search, filter, and organize their music collections.
+
+=========================================================
+*/
+
 package defaultpck;
 import java.io.*;
 import java.util.*;
