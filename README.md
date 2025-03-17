@@ -99,7 +99,7 @@ This project is **open-source**—feel free to explore, modify, and contribute! 
 ---
 
 ## 📬 Connect with Us
-- **Salim El Ghersse** → [GitHub](https://github.com/SalimElGhersse)
+- **Salim El Ghersse** → [GitHub](https://github.com/SalimElGhersse) | https://www.linkedin.com/in/salim-el-ghersse-4567a828a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app 
 - **Maria Chmite** → [GitHub](https://github.com/MariaChmite) | [LinkedIn](https://linkedin.com/in/maria-chmite)
 - **Nouamane Zanboui**
 - **Jad Falaq**
